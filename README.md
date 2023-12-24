@@ -1,9 +1,9 @@
-# Click History Report
+# Relatório com histórico de Cliques
 *Desafio:* Crie um plugin que adicione um comando ao WP-CLI que imprima um relatório de histórico de registros. Esse relatório pode ser apenas a listagem das últimas entradas com seus respectivos.
 
 ## Descrição
 
-O plugin Click History Report permite que você gere relatórios do histórico de cliques no botão do plugin Click Counter Button através da interface de linha de comando (CLI) do WordPress (WP-CLI).
+O plugin Relatório com histórico de Cliques permite que você gere relatórios do histórico de cliques no botão do plugin Botão contador de Cliques através da interface de linha de comando (CLI) do WordPress (WP-CLI).
 
 ## Instalação
 
@@ -24,7 +24,7 @@ Substitua <limite> pelo número desejado de registros a serem exibidos.
 
 ### Opções do Comando do WP-CLI
 
-* <limite>: O limite de registros a serem exibidos.
+* limite: O limite de registros a serem exibidos.
 * --order: A ordem para mostrar os registros (ASC ou DESC).
 
 #### Exemplo
