@@ -24,7 +24,7 @@ Substitua \<limite\> pelo número desejado de registros a serem exibidos.
 
 ### Opções do Comando do WP-CLI
 
-* limite: O limite de registros a serem exibidos.
+* \<limite\>: O limite de registros a serem exibidos.
 * --order: A ordem para mostrar os registros (ASC ou DESC).
 
 #### Exemplo
