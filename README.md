@@ -20,7 +20,7 @@ Para gerar um relatório do histórico de cliques, utilize o seguinte comando no
 wp cc report <limite> [--order=<ordem>]
 ```
 
-Substitua <limite> pelo número desejado de registros a serem exibidos.
+Substitua \<limite\> pelo número desejado de registros a serem exibidos.
 
 ### Opções do Comando do WP-CLI
 
