@@ -1,0 +1,60 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Click History Report\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-24 16:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: click-history-report"
+
+#: class-chr-cli-cmd.php:41
+msgid " click's is successfully generated!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Adds a command to WP-CLI responsible for creating a report with the history "
+"of clicks on the Click Counter Button plugin button. Example: <code>wp cc "
+"report 10 --order=DESC</code> (show the last 10 records)."
+msgstr ""
+
+#. Name of the plugin
+msgid "Click History Report"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/rafael-business/click-history-report"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://rafael.work"
+msgstr ""
+
+#. Author of the plugin
+msgid "Rafael dos Santos"
+msgstr ""
+
+#: class-chr-cli-cmd.php:34
+msgid "the first"
+msgstr ""
+
+#: class-chr-cli-cmd.php:34
+msgid "the last"
+msgstr ""
+
+#: class-chr-cli-cmd.php:41
+msgid "The report with "
+msgstr ""
+
+#: class-chr-cli-cmd.php:83
+msgid "Y-d-m \\a\\t"
+msgstr ""

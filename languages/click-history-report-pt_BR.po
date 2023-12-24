@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Click History Report\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-24 16:34+0000\n"
+"PO-Revision-Date: 2023-12-24 16:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: click-history-report"
+
+#: class-chr-cli-cmd.php:41
+msgid " click's is successfully generated!"
+msgstr " cliques foi gerado com sucesso!"
+
+#. Description of the plugin
+msgid ""
+"Adds a command to WP-CLI responsible for creating a report with the history "
+"of clicks on the Click Counter Button plugin button. Example: <code>wp cc "
+"report 10 --order=DESC</code> (show the last 10 records)."
+msgstr ""
+"Adiciona um comando ao WP-CLI responsável por criar um relatório com o "
+"histórico de cliques no botão do plugin \"Botão contador de Cliques\". "
+"Exemplo: <code>wp cc report 10 --order=DESC</code> (mostra os últimos 10 "
+"registros)."
+
+#. Name of the plugin
+msgid "Click History Report"
+msgstr "Relatório com histórico de Cliques"
+
+#. URI of the plugin
+msgid "https://github.com/rafael-business/click-history-report"
+msgstr "https://github.com/rafael-business/click-history-report"
+
+#. Author URI of the plugin
+msgid "https://rafael.work"
+msgstr "https://rafael.work"
+
+#. Author of the plugin
+msgid "Rafael dos Santos"
+msgstr "Rafael dos Santos"
+
+#: class-chr-cli-cmd.php:34
+msgid "the first"
+msgstr "os primeiros"
+
+#: class-chr-cli-cmd.php:34
+msgid "the last"
+msgstr "os últimos"
+
+#: class-chr-cli-cmd.php:41
+msgid "The report with "
+msgstr "O relatório com "
+
+#: class-chr-cli-cmd.php:83
+msgid "Y-d-m \\a\\t"
+msgstr "d/m/Y \\à\\s"
